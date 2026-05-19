@@ -406,7 +406,7 @@
 											"        let data = res.json();\r",
 											"        if(data.contacts && data.contacts.length>0){\r",
 											"            let.contactId = data.contacts[0].id;\r",
-											"            \r",
+											"            pm.environment.set\r",
 											"        }\r",
 											"    }\r",
 											"}\r",
